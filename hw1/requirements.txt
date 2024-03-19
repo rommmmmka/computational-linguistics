@@ -1,0 +1,7 @@
+beautifulsoup4
+lxml
+matplotlib
+notebook
+numpy
+pymystem3
+git+https://github.com/gabmars/russian-tagsets.git
