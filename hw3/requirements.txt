@@ -3,4 +3,5 @@ gensim
 jupyter
 pandas
 requests
+scipy==1.12
 stanza
