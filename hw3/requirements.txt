@@ -1,5 +1,6 @@
 beautifulsoup4
 gensim
+notebook
 pandas
 requests
 stanza
